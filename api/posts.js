@@ -141,9 +141,6 @@ postsRouter.get('/', async (req, res, next) => {
 module.exports = postsRouter;
 
 
-//token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwidXNlcm5hbWUiOiJhbGJlcnQiLCJpYXQiOjE2ODQ0MDA5ODR9.4Rph9WaeiWTaKHG-X52s6uVjazR4eQVK87osCqSx6vg'
-
-
 
 
 
